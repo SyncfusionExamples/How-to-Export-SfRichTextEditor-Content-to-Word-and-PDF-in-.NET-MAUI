@@ -18,7 +18,7 @@ namespace ExportRTEAsDocs
             string html = editor?.HtmlText ?? string.Empty;
             if (string.IsNullOrWhiteSpace(html))
             {
-                await DisplayAlert("Export", "Editor is empty.", "OK");
+                await DisplayAlertAsync("Export", "Editor is empty.", "OK");
                 return;
             }
 
@@ -37,7 +37,7 @@ namespace ExportRTEAsDocs
             string html = editor?.HtmlText ?? string.Empty;
             if (string.IsNullOrWhiteSpace(html))
             {
-                await DisplayAlert("Export", "Editor is empty.", "OK");
+                await DisplayAlertAsync("Export", "Editor is empty.", "OK");
                 return;
             }
 
