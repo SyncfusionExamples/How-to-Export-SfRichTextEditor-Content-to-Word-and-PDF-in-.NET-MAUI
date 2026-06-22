@@ -1,5 +1,5 @@
 # How to Export SfRichTextEditor Content to Word and PDF in .NET MAUI
-This sample demonstrates how to export the contents of the .NET MAUI SfRichTextEditor to Word and PDF formats using Syncfusion controls. Enable users to save their rich text input as professional documents, supporting common business workflows and document sharing.
+This sample demonstrates how to export the contents of the [.NET MAUI SfRichTextEditor](https://www.syncfusion.com/maui-controls/maui-rich-text-editor) to Word and PDF formats using Syncfusion controls. Enable users to save their rich text input as professional documents, supporting common business workflows and document sharing.
 
 ## What You'll Learn
 
